@@ -16,7 +16,7 @@
   :main historical-data-load.core
   :profiles
   {:dev {:jvm-opts ["-Dibdb.host=localhost"
-                    "-Dibdb.name=finance"
+                    "-Dibdb.name=my_database"
                     "-Dibdb.user=postgres"
                     "-Dibdb.password=postgres"
                     "-Dibdb.port=5432"
