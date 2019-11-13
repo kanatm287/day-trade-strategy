@@ -1,4 +1,4 @@
-name := "historical-data"
+name := "historical-data-process"
 
 crossPaths := false
 
